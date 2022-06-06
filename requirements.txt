@@ -128,3 +128,4 @@ websockets==10.3
 widgetsnbextension==3.6.0
 zict==2.2.0
 zipp==3.8.0
+nbgitpuller
